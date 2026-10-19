@@ -1,0 +1,6 @@
+{
+  "name": "KRONOS Heavy Cyber-Engineering",
+  "description": "Portal institucional B2B e simulador de grandes obras de engenharia pesada, infraestrutura cibernética e gêmeos digitais BIM 5D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
